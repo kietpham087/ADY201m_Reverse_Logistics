@@ -1,0 +1,4 @@
+rating_group,total_orders,avg_weight_g,min_weight_g,max_weight_g,avg_volume_cm3,avg_freight_cost
+Low Rating (1–2 sao),13849,2314.0,60.0,22537.5,16492.9,26.76
+High Rating (4–5 sao),75926,2020.6,60.0,22537.5,14661.6,21.52
+,59,1692.0,100.0,16800.0,14210.1,23.52

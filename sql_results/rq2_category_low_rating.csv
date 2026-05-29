@@ -1,0 +1,16 @@
+category,total_orders,avg_review_score,low_rating_orders,low_rating_pct
+fashion_male_clothing,111,3.7,29,26.1
+office_furniture,1255,3.62,283,22.5
+audio,343,3.84,74,21.6
+construction_tools_safety,161,3.89,31,19.3
+unknown,1405,3.93,270,19.2
+fixed_telephony,214,3.9,40,18.7
+home_confort,373,3.88,69,18.5
+fashion_underwear_beach,120,3.93,22,18.3
+furniture_decor,6305,4.02,1027,16.3
+bed_bath_table,9207,3.98,1505,16.3
+air_conditioning,248,4.04,40,16.1
+computers_accessories,6620,4.03,1056,16.0
+home_construction,470,4.03,74,15.7
+baby,2815,4.06,437,15.5
+telephony,4151,4.01,638,15.4
